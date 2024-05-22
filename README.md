@@ -1,4 +1,4 @@
-# This ibmprojects repository stores  project code Which i wrote in python language for when doing a cyber securite related course in ibm
+# This ibmprojects repository stores  project code Which i wrote in python language  when doing a cyber security related course in IBM
 # Image-Based Message Encryption and Decryption
 
 ## Overview
